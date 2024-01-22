@@ -1,0 +1,22 @@
+
+
+html,
+body {
+  margin: 0; line-height: normal;
+  overflow-x: clip;
+  background: black;
+  }
+
+a {
+  color: #84309c;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+
+

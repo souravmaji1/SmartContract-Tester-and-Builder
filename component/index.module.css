@@ -1,0 +1,966 @@
+.heading11 {
+    position: absolute;
+    top: 1.5px;
+    left: 271px;
+    font-size: 24px;
+    letter-spacing: 0.15px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    width: 49.51px;
+    height: 27px;
+}
+.pngIcon1 {
+    position: absolute;
+    top: calc(50% - 12px);
+    left: calc(50% - 10px);
+    width: 20px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.divcss128zklg {
+    position: absolute;
+    top: calc(50% - 10px);
+    left: 9px;
+    border-radius: 9999px;
+    width: 20px;
+    height: 20px;
+}
+.labelMumbai1 {
+    position: absolute;
+    top: 9px;
+    left: 39px;
+    line-height: 12px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 46.89px;
+    height: 12px;
+}
+.divcss6qzg5i {
+    position: absolute;
+    top: calc(50% - 51.5px);
+    left: 336.16px;
+    border-radius: 9999px;
+    background-color: #131417;
+    border: 1px solid #2b2b2b;
+    box-sizing: border-box;
+    width: 94.55px;
+    height: 30px;
+    overflow: hidden;
+}
+.svgIcon {
+    position: absolute;
+    height: calc(100% - 12px);
+    top: 6px;
+    bottom: 6px;
+    left: 9px;
+    max-height: 100%;
+    width: 12px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.x15b06943 {
+    position: absolute;
+    top: 6px;
+    left: calc(50% - 36.81px);
+    line-height: 12px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 93.95px;
+    height: 12px;
+}
+.button {
+    position: absolute;
+    height: calc(100% - 79px);
+    top: 46px;
+    bottom: 33px;
+    left: 271px;
+    border-radius: 6px;
+    border: 1px solid #272b30;
+    box-sizing: border-box;
+    width: 131.61px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9);
+    font-family: 'IBM Plex Mono';
+}
+.polygonscan {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: 8px;
+    line-height: 12px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 74.76px;
+    height: 15px;
+}
+.svgIcon1 {
+    position: absolute;
+    height: calc(100% - 12px);
+    top: 6px;
+    bottom: 6px;
+    left: 90.45px;
+    max-height: 100%;
+    width: 12px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.link {
+    position: absolute;
+    height: calc(100% - 79px);
+    top: 46px;
+    bottom: 33px;
+    left: 410.61px;
+    border-radius: 6px;
+    width: 110.45px;
+    color: rgba(255, 255, 255, 0.9);
+}
+.divcss1tofvql {
+    position: absolute;
+    width: 139%;
+    top: 40px;
+    right: 0px;
+    left: -248px;
+    border-bottom: 1px solid #2b2b2b;
+    box-sizing: border-box;
+    height: 103px;
+}
+.signInWith1 {
+    position: absolute;
+    top: 35px;
+    left: 451.41px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 235.57px;
+    height: 17px;
+}
+.connectWallet {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 116.79px;
+    height: 20px;
+}
+.buttonConnectWallet2 {
+    position: absolute;
+    top: calc(50% - 4.81px);
+    left: calc(50% - 72.2px);
+    border-radius: 8px;
+    background-color: #ededef;
+    width: 144.41px;
+    height: 48px;
+    font-size: 16px;
+    color: #131418;
+}
+.divcss1goffnk {
+    position: absolute;
+    width: 94%;
+    top: 199px;
+    right: 271px;
+    left: 25px;
+    border-radius: 12px;
+    background-color: #131417;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border: 1px solid #2b2b2b;
+    box-sizing: border-box;
+    height: 183.39px;
+    font-size: 14px;
+    color: #b2b2b2;
+}
+.main {
+    position: absolute;
+    height: calc(100% - 194.39px);
+    width: calc(100% - 240px);
+    top: 140px;
+    right: 0px;
+    bottom: 54.39px;
+    left: 240px;
+    overflow: hidden;
+    font-size: 12px;
+}
+.linkHeading2Svg {
+    position: absolute;
+    height: 77.75%;
+    width: 11.24%;
+    top: 11.12%;
+    right: 88.76%;
+    bottom: 11.13%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.searchAnyContract1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    width: 133.28px;
+    height: 17px;
+}
+.divplaceholder {
+    position: absolute;
+    width: calc(100% - 46px);
+    top: 7.5px;
+    right: 33px;
+    left: 13px;
+    height: 17px;
+    overflow: hidden;
+}
+.input {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    border-radius: 6px;
+    border: 1px solid #2b2b2b;
+    box-sizing: border-box;
+    height: 32px;
+}
+.k {
+    position: absolute;
+    top: 8.41px;
+    left: 272.23px;
+    font-size: 12px;
+    line-height: 19.2px;
+    display: flex;
+    align-items: center;
+    width: 20.09px;
+    height: 15px;
+}
+.divchakraInputGroup {
+    position: absolute;
+    width: calc(100% - 56px);
+    top: calc(50% - 16px);
+    right: 0px;
+    left: 56px;
+    height: 32px;
+}
+.divcssRdwj84 {
+    position: absolute;
+    top: calc(50% - 16px);
+    left: 16px;
+    width: 356px;
+    height: 32px;
+}
+.buttonConnectWallet3 {
+    position: absolute;
+    top: calc(50% - 24px);
+    left: 306.57px;
+    border-radius: 8px;
+    
+    width: 144.41px;
+    height: 48px;
+    font-size: 16px;
+    color: #131418;
+}
+.svgIcon2 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: calc(50% - 34.62px);
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.heading43 {
+    position: absolute;
+    top: 1px;
+    left: 22px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 47.57px;
+    height: 14px;
+}
+.link1 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: 4px;
+    border-radius: 6px;
+    width: 69.23px;
+    height: 16px;
+}
+.svgIcon3 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: calc(50% - 28.22px);
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.heading44 {
+    position: absolute;
+    top: 1px;
+    left: 22px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 34.74px;
+    height: 14px;
+}
+.link2 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: 93.23px;
+    border-radius: 6px;
+    width: 56.44px;
+    height: 16px;
+}
+.svgIcon4 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: calc(50% - 38.46px);
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.heading45 {
+    position: absolute;
+    top: 1px;
+    left: 22px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 55.28px;
+    height: 14px;
+}
+.link3 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: 169.67px;
+    border-radius: 6px;
+    width: 76.91px;
+    height: 16px;
+}
+.buttonToggleColor1 {
+    position: absolute;
+    top: calc(57% - 16px);
+    left: 270.57px;
+    border-radius: 6px;
+    width: 22px;
+    height: 21px;
+    object-fit: cover;
+}
+.divcss9oll5y {
+    position: absolute;
+    top: calc(49% - 30px);
+    right: 372px;
+    width: 450.98px;
+    height: 60px;
+    color: #ececec;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: calc(73% - 960px);
+    width: 1615px;
+    height: 84px;
+}
+.home {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: 12px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 40.12px;
+    height: 17px;
+}
+.groupLink7 {
+    position: absolute;
+    height: calc(100% - 16px);
+    top: 8px;
+    bottom: 8px;
+    left: 16px;
+    border-radius: 8px;
+    width: 63.8px;
+}
+.wallets {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: 12px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 50.19px;
+    height: 17px;
+}
+.groupLink8 {
+    position: absolute;
+    height: calc(100% - 16px);
+    top: 8px;
+    bottom: 8px;
+    left: 87.8px;
+    border-radius: 8px;
+    width: 73.84px;
+}
+.contracts {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: 12px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 67.52px;
+    height: 17px;
+}
+.groupLink9 {
+    position: absolute;
+    height: calc(100% - 16px);
+    top: 8px;
+    bottom: 8px;
+    left: 169.64px;
+    border-radius: 8px;
+    width: 91.22px;
+}
+.payments {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: 12px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 67.3px;
+    height: 17px;
+}
+.groupLink10 {
+    position: absolute;
+    height: calc(100% - 16px);
+    top: 8px;
+    bottom: 8px;
+    left: 268.86px;
+    border-radius: 8px;
+    width: 91px;
+}
+.infrastructure {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: 12px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 94px;
+    height: 17px;
+}
+.groupLink11 {
+    position: absolute;
+    height: calc(100% - 16px);
+    top: 8px;
+    bottom: 8px;
+    left: 367.86px;
+    border-radius: 8px;
+    width: 117.66px;
+}
+.engine {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: 12px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 46.62px;
+    height: 17px;
+}
+.groupLink12 {
+    position: absolute;
+    height: calc(100% - 16px);
+    top: 8px;
+    bottom: 8px;
+    left: 493.52px;
+    border-radius: 8px;
+    width: 70.28px;
+}
+.settings {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: 12px;
+    line-height: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 57.03px;
+    height: 17px;
+}
+.groupLink13 {
+    position: absolute;
+    height: calc(100% - 16px);
+    top: 8px;
+    bottom: 8px;
+    left: 571.8px;
+    border-radius: 8px;
+    width: 80.66px;
+}
+.nav {
+    position: absolute;
+    top: 84px;
+    left: calc(71% - 960px);
+    width: 1920px;
+    height: 48px;
+    overflow: hidden;
+    color: rgba(255, 255, 255, 0.9);
+}
+.divcssXb3mgu {
+    position: absolute;
+    height: calc(100% - 940px);
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 940px;
+    left: 0px;
+    background-color: #131417;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    color: rgba(255, 255, 255, 0.4);
+}
+.dfdf {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 27.53px;
+    height: 17px;
+}
+.label {
+    position: absolute;
+    top: calc(50% - 164.39px);
+    left: 0px;
+    width: 27.17px;
+    height: 22.39px;
+    overflow: hidden;
+    color: #646d7a;
+}
+.overview {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    width: 62.83px;
+    height: 17px;
+}
+.spanchakraHeading {
+    position: absolute;
+    width: calc(100% - 14px);
+    top: 3.5px;
+    right: 0px;
+    left: 14px;
+    height: 21px;
+    overflow: hidden;
+    opacity: 0.7;
+}
+.group {
+    position: absolute;
+    height: calc(100% - 300.78px);
+    top: 30.39px;
+    bottom: 270.39px;
+    left: 0px;
+    border-left: 2px solid rgba(255, 255, 255, 0.07);
+    box-sizing: border-box;
+    width: 76.44px;
+}
+.codeSnippets {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    width: 97.6px;
+    height: 17px;
+}
+.group1 {
+    position: absolute;
+    height: calc(100% - 300.78px);
+    top: 58.39px;
+    bottom: 242.39px;
+    left: 0px;
+    border-left: 2px solid rgba(255, 255, 255, 0.07);
+    box-sizing: border-box;
+    width: 111.25px;
+}
+.explorer {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    width: 54.84px;
+    height: 17px;
+}
+.group2 {
+    position: absolute;
+    height: calc(100% - 300.78px);
+    top: 86.39px;
+    bottom: 214.39px;
+    left: 0px;
+    border-left: 2px solid rgba(255, 255, 255, 0.07);
+    box-sizing: border-box;
+    width: 68.47px;
+}
+.events {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    width: 44.86px;
+    height: 17px;
+}
+.group3 {
+    position: absolute;
+    height: calc(100% - 300.78px);
+    top: 114.39px;
+    bottom: 186.39px;
+    left: 0px;
+    border-left: 2px solid rgba(255, 255, 255, 0.07);
+    box-sizing: border-box;
+    width: 58.52px;
+}
+.beta {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    line-height: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 36.17px;
+    height: 14px;
+}
+.spanchakraBadge {
+    position: absolute;
+    top: calc(50% - 19.36px);
+    left: 82.22px;
+    border-radius: 2px;
+    background-color: rgba(255, 255, 255, 0.05);
+    width: 43.86px;
+    height: 22px;
+    color: #a7f3d0;
+}
+.analytics {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    width: 60.61px;
+    height: 17px;
+}
+.group4 {
+    position: absolute;
+    height: calc(100% - 300.78px);
+    top: 142.39px;
+    bottom: 158.39px;
+    left: 0px;
+    border-left: 2px solid rgba(255, 255, 255, 0.07);
+    box-sizing: border-box;
+    width: 74.22px;
+}
+.payments1 {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    width: 68.25px;
+    height: 17px;
+}
+.spanchakraHeading5 {
+    position: absolute;
+    width: calc(100% - 14px);
+    top: 3.5px;
+    right: 0px;
+    left: 14px;
+    height: 21px;
+    overflow: hidden;
+}
+.group5 {
+    position: absolute;
+    height: calc(100% - 300.78px);
+    top: 170.39px;
+    bottom: 130.39px;
+    left: 0px;
+    border-left: 2px solid #3385ff;
+    box-sizing: border-box;
+    width: 81.95px;
+}
+.settings1 {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    width: 55.01px;
+    height: 17px;
+}
+.group6 {
+    position: absolute;
+    height: calc(100% - 300.78px);
+    top: 198.39px;
+    bottom: 102.39px;
+    left: 0px;
+    border-left: 2px solid rgba(255, 255, 255, 0.07);
+    box-sizing: border-box;
+    width: 68.64px;
+}
+.sources {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    width: 54.05px;
+    height: 17px;
+}
+.group7 {
+    position: absolute;
+    height: calc(100% - 300.78px);
+    top: 226.39px;
+    bottom: 74.39px;
+    left: 0px;
+    border-left: 2px solid rgba(255, 255, 255, 0.07);
+    box-sizing: border-box;
+    width: 67.69px;
+}
+.extensionChecksvgIcon1 {
+    position: absolute;
+    width: calc(100% - 160px);
+    top: 273.58px;
+    right: 166px;
+    left: -6px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 16px;
+    object-fit: cover;
+}
+.extensions {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 72.11px;
+    height: 17px;
+}
+.label1 {
+    position: absolute;
+    top: calc(50% + 106px);
+    left: 18px;
+    width: 71.8px;
+    height: 22.39px;
+    overflow: hidden;
+    color: #646d7a;
+}
+.nfts {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    width: 34.33px;
+    height: 17px;
+}
+.group8 {
+    position: absolute;
+    height: calc(100% - 300.78px);
+    top: 300.78px;
+    bottom: 0px;
+    left: 0px;
+    border-left: 2px solid rgba(255, 255, 255, 0.07);
+    box-sizing: border-box;
+    width: 48.03px;
+}
+.divcssOmlyne {
+    position: absolute;
+    width: calc(100% - 64px);
+    top: 32px;
+    right: 32px;
+    left: 32px;
+    background-color: #131417;
+    height: 328.78px;
+}
+.aside {
+    position: absolute;
+    height: calc(100% - 194.39px);
+    width: calc(100% - 1680px);
+    top: 140px;
+    right: 1680px;
+    bottom: 54.39px;
+    left: 0px;
+    background-color: #131417;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+}
+.linkFeedback1 {
+    position: absolute;
+    top: 18px;
+    left: 654.44px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 65.07px;
+    height: 17px;
+}
+.linkPrivacy1 {
+    position: absolute;
+    top: 18px;
+    left: 735.11px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 92.18px;
+    height: 17px;
+}
+.linkTerms1 {
+    position: absolute;
+    top: 18px;
+    left: 842.95px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 112px;
+    height: 17px;
+}
+.linkGas1 {
+    position: absolute;
+    top: 18px;
+    left: 970.58px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 92.64px;
+    height: 17px;
+}
+.linkChainlist1 {
+    position: absolute;
+    top: 18px;
+    left: 1078.88px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 57.29px;
+    height: 17px;
+}
+.thirdweb20231 {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 114.14px;
+    height: 17px;
+}
+.pchakraText {
+    position: absolute;
+    top: calc(50% - 11.19px);
+    left: calc(50% + 191.8px);
+    width: 113.77px;
+    height: 22.39px;
+    opacity: 0.5;
+}
+.footer {
+    position: absolute;
+    height: calc(100% - 1025.61px);
+    width: 100%;
+    top: 1025.61px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: #131417;
+    color: #b2b2b2;
+}
+.divcss7tia9e {
+    position: absolute;
+    width: 100%;
+    top: 48px;
+    right: 0px;
+    left: 0px;
+    background-color: #0e0e10;
+    height: 1080px;
+}
+.linkIntroducing1 {
+    position: absolute;
+    top: 12px;
+    left: 421.14px;
+    line-height: 24px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 632.04px;
+    height: 24px;
+
+}
+.linkSvg {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: 1259.86px;
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.buttonCloseAnnouncement1 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: calc(50% + 924px);
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.divcss3xqo42 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    background: linear-gradient(92.12deg, #410ab6 5.07%, #7bdefe);
+    height: 48px;
+    font-size: 16px;
+    color: #fff;
+}
+.thirdwebDashboard {
+    position: relative;
+    background-color: #000;
+    width: 100%;
+    height: 1128px;
+    text-align: left;
+    font-size: 14px;
+    color: #ececec;
+    font-family: Inter;
+}
+
